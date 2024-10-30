@@ -1,0 +1,26 @@
+*{
+  background-color: #12855e;
+  color: aliceblue;
+}
+button{
+  border: 2px solid rgb(10, 59, 43);
+  text-align: center;
+  position: relative;
+  left: 600px;
+  top: 150px;
+  width: 100px;
+  height: 40px;
+  border-radius: 15px;
+  background-color: rgb(10, 59, 43);
+  box-shadow: 2px 2px 25px 2px;
+}
+button:hover{
+  background-color: red;
+  color: black;
+}
+p{
+  font-size: 25px;
+  position: relative;
+  left: 630px;
+  top: 150px;
+}
